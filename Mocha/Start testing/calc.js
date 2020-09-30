@@ -1,4 +1,5 @@
 module.exports.sum = function (a, b) {
+    let b;
     return a + b;
 }
 module.exports.diff = function (a, b) {
