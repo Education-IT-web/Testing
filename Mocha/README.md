@@ -1,5 +1,6 @@
-unnecessary# Mocha first testing project
+#            Mocha
 #### В этом проекте описаны базовые понятия по тестированию с использованием фреймворка Mocha
+<hr>
 <br>
 
 ![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/Start%20testing/logo.png)
