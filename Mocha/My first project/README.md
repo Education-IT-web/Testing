@@ -1,8 +1,8 @@
 # Mocha first testing project
 #### В этом проекте описаны базовые понятия по тестированию с использованием фреймворка Mocha
-<br><br><br>
+<br><br>
 
-
+![Image alt](https://github.com/Education-IT-web/Working-with-GIT/blob/master/Git-Logo-2Color.png)
 
 ## 1. Введение
 
