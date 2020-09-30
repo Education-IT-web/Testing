@@ -1,8 +1,9 @@
 # Mocha first testing project
 #### В этом проекте описаны базовые понятия по тестированию с использованием фреймворка Mocha
-<br><br>
+<br>
 
 ![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/My%20first%20project/1_Uxg.png)
+
 <br>
 
 
@@ -40,7 +41,7 @@
     7. Повторяем шаги 3 - 6, пока требуемая функциональность не будет готова.
 <hr>  
 
-<br><br><br>
+<br><br>
 ## 2. Тестирование на стороне сервера
 <br><br>
 
