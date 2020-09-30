@@ -2,7 +2,7 @@
 #### В этом проекте описаны базовые понятия по тестированию с использованием фреймворка Mocha
 <br><br>
 
-![Image alt](https://github.com/Education-IT-web/Working-with-GIT/blob/master/Git-Logo-2Color.png)
+                    ![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/My%20first%20project/5bbc116f9f7dc.jpg)
 
 ## 1. Введение
 
