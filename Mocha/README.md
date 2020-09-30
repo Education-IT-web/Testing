@@ -2,7 +2,7 @@ unnecessary# Mocha first testing project
 #### В этом проекте описаны базовые понятия по тестированию с использованием фреймворка Mocha
 <br>
 
-![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/start%20testing/logo.png)
+![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/Start%20testing/logo.png)
 
 <br>
 
