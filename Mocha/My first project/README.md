@@ -3,7 +3,7 @@
 <br><br>
 
 ![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/My%20first%20project/mocha001.png)
-![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/My%20first%20project/mocha001.png)
+![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/My%20first%20project/1_Uxg.png)
 
 ## 1. Введение
 
