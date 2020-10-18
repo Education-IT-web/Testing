@@ -27,20 +27,32 @@
    Сторона сервера:
 
     В папке проекта создаем файл package.json и добавляем в него:
-    «`{java-script}<>{{
-        "name": "test",
-        "version": "1.0.0",
-        "description": "mocha first test project",
-        "main": "index.html",
-        "scripts": {
-            "test": "mocha *.test.js"
-        },
-        "author": "Oleg Kochiev",
-        "license": "ISC",
-        "devDependencies": {
-            "mocha": "^8.1.3"
+    
+        {
+          "name": "testapp",
+          "version": "1.0.0"
         }
-    }}«`
+    
+    После того как файл создан, необходимо добавить фреймворк mocha в проект. Выполняем команду:
+        
+        npm install mocha --save-dev // флаг --save-dev позволяет добавить пакте в список зависимостей выполняющихся на этапе разработки 
+        
+     В дальнейшем файл package.json может иметь такой вид:
+     
+        {
+            "name": "test", // Название проекта
+            "version": "1.0.0", // актуальная версия
+            "description": "mocha first test project", // Описание проекта
+            "main": "index.html", // Точка входа в приложение
+            "scripts": { // Список скриптов запускаемых по команде
+                "test": "mocha *.test.js" // по команде "test" запускается фреймворк mocha, который прогоняет все файлы оканчивающиеся на ".test.js"
+            },
+            "author": "Oleg Kochiev", // Автор данного файла
+            "license": "ISC", 
+            "devDependencies": { // Расширения которые не будут добавлены в продакшн, которые нужны только в процессе разработки
+                "mocha": "^8.1.3"
+            }
+        }
     
 
 
