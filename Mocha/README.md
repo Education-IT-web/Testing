@@ -78,7 +78,8 @@
    1. Первым делом создаем файл  с именем "<file_name>.test.js", в который будем писать тесты под конкретный файл.
    
    2. Пишем тесты под функицю, или класс который будут храниться в файле "<file_name>.js". Например:
-      ```js
+```js
+      
       let calc = require('./calc'); // подключаем файл "calc.js".
       describe("сумма", function () { // describe - позволяет группировать тесты по функциям или классам.
           it("сложение чисел a и b", function () { // блок it нужен для написания множества тестов для одной функции или класса.
@@ -96,11 +97,13 @@
               }
           });
       });
-      ```
+      
+```
 <br><br>
 
    3. Создаем файл "<file_name>.js" и пишем в него функцию или класс, под который написали тесты. Например:
-   ```js
+```js
+   
       module.exports.sum = function (a, b) { // команда module.exports позволяет экспортировать указанную функцию
           return a + b;
       }
@@ -113,9 +116,9 @@
       module.exports.div = function (a, b) {
           return a / b;
       }
-    ```
-   
-   4. Запускаем тестирование командой "npm test" и пр успешном прохождении тестов увидим на экране такое сообщение:
-   
 
-    ![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/success_test.png)
+```
+   4. Запускаем тестирование командой "npm test" и пр успешном прохождении тестов увидим на экране такое сообщение:
+
+
+![Image alt](https://github.com/Education-IT-web/Testing/blob/master/Mocha/success_test.png)
