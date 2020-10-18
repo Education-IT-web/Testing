@@ -27,8 +27,7 @@
    Сторона сервера:
 
     В папке проекта создаем файл package.json и добавляем в него:
-
-    {
+    «`{java-script}<>{{
         "name": "test",
         "version": "1.0.0",
         "description": "mocha first test project",
@@ -41,7 +40,8 @@
         "devDependencies": {
             "mocha": "^8.1.3"
         }
-    }
+    }}«`
+    
 
 
     2. Настроить окружение. 
