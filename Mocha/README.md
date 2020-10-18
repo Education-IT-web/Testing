@@ -117,3 +117,5 @@
    
    4. Запускаем тестирование командой "npm test" и пр успешном прохождении тестов увидим на экране такое сообщение:
    
+
+    [Image alt](https://github.com/Education-IT-web/Testing/blob/master/success_test.png)
