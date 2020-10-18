@@ -7,6 +7,13 @@ describe("сумма", function () {
             throw new Error(`Expected ${expectedResult}, but got ${result}`)
         }
     });
+    it("сложение чисел a и b", function () {
+        let result = calc.sum(0, 0);
+        let expectedResult = 0;
+        if (result !== expectedResult) {
+            throw new Error(`Expected ${expectedResult}, but got ${result}`)
+        }
+    });
 });
 describe("разность", function () {
     it("разность чисел a и b", function () {
